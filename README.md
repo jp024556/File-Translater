@@ -1,6 +1,6 @@
 # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # File-Translater
-> This is a web app utility that can translate any subtitle to the preferred language of choice.
+> This is a web app utility that can translate any file('txt', 'doc', 'docx', 'rtf', 'pdf') to the preferred language of choice.
 
 ```php
 Usage
