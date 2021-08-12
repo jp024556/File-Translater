@@ -11,7 +11,5 @@ Usage
 ```
 ___
 ## Status of File-Translater
-> Maintained
-
-> You will get response to your pull request within 48 hours.
+> Not Maintained any more.
 ___
